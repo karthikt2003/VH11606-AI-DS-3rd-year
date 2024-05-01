@@ -1,3 +1,4 @@
+import React from 'react';
 const products = [
   {
     "productName": "Laptop 1",
